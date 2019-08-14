@@ -1,0 +1,4 @@
+Author:
+License: GPLv2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+The charmap.h file is from mViewer by Xavier Andreani (https://www.ticalc.org/archives/files/fileinfo/434/43460.html) licensed under the GPL v2.
